@@ -1,0 +1,11 @@
+footer {
+    color: write;
+    height: 60px;
+    width: 100%;
+    border-top:  1px solid #CCCCCC;
+    border-bottom-style: 0px solid;
+    position: absolute;
+    line-height: 60px;
+    text-align: center;
+    bottom: 0px;
+}
